@@ -23,3 +23,6 @@ I'm on a continuous path to explore and master different ML topics, integrating 
 
 ## 🔧 Projects
 Stay tuned for real-world projects and experiments.
+
+## 🔗 Further Reading
+For a deep explanation of each aspect of Machine Learning, visit [this page](https://thdong07.notion.site/Machine-Learning-15eb386fe87b8036980bd06228af75eb?pvs=4).
